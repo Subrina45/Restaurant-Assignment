@@ -1,0 +1,49 @@
+h1 {
+    color:purple;
+    border-style: dashed;
+}
+h2 {
+    color:purple;
+    border-style: dashed;
+}
+h3 {
+    color:purple;
+    border-style: dashed;
+}
+p1 {
+    color: purple;
+    margin: 20px;
+    padding: 40px;
+}
+p2 {
+    color: purple;
+    margin: 20px;
+    padding: 40px;
+}
+p3 {
+    color: purple;
+    margin: 20px;
+    padding: 40px;
+}
+p4 {
+    color: purple;
+    margin: 20px;
+    padding: 40px;
+}
+table{
+    width: 100%
+}
+table, th, td {
+    border: 1px solid purple;
+    border-collapse: collapse;
+}
+nav {
+    background-color: cadetblue;
+    height: 50px;
+}
+nav ul {
+    border: 1px solid blueviolet;
+    height: 50px;
+    width: 450;
+    margin: 0 auto;
+}

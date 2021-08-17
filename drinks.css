@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(5, 146, 134);
+    border-style: dashed;
+}
+h2 {
+    color: rgb(5, 146, 134);
+    border-style: dashed;
+}
+h3 {
+    color:rgb(5, 146, 134);
+    border-style:dashed;
+}
+p1 {
+    color: rgb(5, 146, 134);
+}
+ul {
+    color:rgb(5, 146, 134);
+}
+table, th, td {
+    border: 1px solid lightseagreen;
+    border-collapse: collapse;
+}
